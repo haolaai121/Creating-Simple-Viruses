@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\LAB2_Bai1.4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\LAB2_Bai1.4.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\LAB2_Bai1.4.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\LAB2_Bai1.4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\LAB2_Bai1.4.InstallLog
+   assemblypath = D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\LAB2_Bai1.4.exe
