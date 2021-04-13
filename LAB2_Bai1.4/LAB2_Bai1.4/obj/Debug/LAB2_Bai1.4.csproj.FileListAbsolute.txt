@@ -24,3 +24,4 @@ D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\ru\Xceed.Wpf.AvalonD
 D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
 D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
 D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\obj\Debug\LAB2_Bai1.4.csproj.CopyComplete
+D:\Projects\CCHDCMD\Lab02\LAB2_Bai1.4\LAB2_Bai1.4\obj\Debug\LAB2_Bai1.4.csprojAssemblyReference.cache
