@@ -30,7 +30,7 @@ namespace LAB2_Bai1._4
         {
             // SessionUnlock: Bước cuối cùng để thực hiện đăng nhập sau khi Lock hoặc Shutdown
             // SessionLogon: // Bước cuối cùng để thực hiện đăng nhập sau khi Sign out
-            if (changeDescription.Reason == SessionChangeReason.SessionUnlock)
+            if ((changeDescription.Reason == SessionChangeReason.SessionUnlock) || (changeDescription.Reason != SessionChangeReason.SessionUnlock && changeDescription.Reason == SessionChangeReason.SessionLogon))
             {
                 // Pop up
                 Interop.ShowMessageBox("MSSV: 18521336 !", "Pop up");
